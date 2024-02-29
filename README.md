@@ -37,10 +37,10 @@ I am a web and blockchain developer.
 </p>
 
 <!--
-<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=William-Potter-exp&theme=dracula&column=4&margin-w=15&margin-h=15" alt="William Potter" /></a></p>
+<p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Eric-potter&theme=dracula&column=4&margin-w=15&margin-h=15" alt="William Potter" /></a></p>
 
 
-**William-Potter-exp/William-Potter-exp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Eric-potter/Eric-potter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -58,15 +58,15 @@ Here are some ideas to get you started:
 <hr>
 
 <h3 align="center" >Visitor Count</h3>
-<a align="center" href="https://profile-counter.glitch.me/{William-Potter-exp}/count.svg">
+<a align="center" href="https://profile-counter.glitch.me/{Eric-potter}/count.svg">
   
-  ![VisitorCount](https://profile-counter.glitch.me/{William-Potter-exp}/count.svg)  
+  ![VisitorCount](https://profile-counter.glitch.me/{Eric-potter}/count.svg)  
   
 </a>
 
 #Github Activity📊:
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Potter-exp&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=50% height=auto  alt="2" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-potter&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=50% height=auto  alt="2" />
 </p>
 
