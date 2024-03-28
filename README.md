@@ -64,9 +64,10 @@ Here are some ideas to get you started:
   
 </a>
 
+<!--
 #Github Activity📊:
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-potter&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=50% height=auto  alt="2" />
 </p>
-
+-->
