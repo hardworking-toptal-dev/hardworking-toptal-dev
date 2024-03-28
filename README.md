@@ -5,7 +5,7 @@
 I am a web and blockchain developer.
 
 <p> 
-    Master: 
+    Master: <br />
     <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="linux" width="60" height="60"/>
     <img src="https://docs.soliditylang.org/en/v0.8.11/_static/logo.svg" alt="linux" width="60" height="60"/>
     <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="linux" width="60" height="60"/>
