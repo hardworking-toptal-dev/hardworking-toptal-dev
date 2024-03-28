@@ -36,7 +36,7 @@ I am a web and blockchain developer.
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>   
 </p>
 
-<!--
+
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Eric-potter&theme=dracula&column=4&margin-w=15&margin-h=15" alt="William Potter" /></a></p>
 
 
@@ -52,11 +52,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 
 <hr>
-
+<!--
 <h3 align="center" >Visitor Count</h3>
 <a align="center" href="https://profile-counter.glitch.me/{Eric-potter}/count.svg">
   
@@ -64,7 +64,7 @@ Here are some ideas to get you started:
   
 </a>
 
-<!--
+
 #Github Activity📊:
 
 <p align="center">
