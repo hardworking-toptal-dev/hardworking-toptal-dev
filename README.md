@@ -55,8 +55,8 @@ Here are some ideas to get you started:
   ![VisitorCount](https://profile-counter.glitch.me/{Eric-potter}/count.svg)  
   
 </a>
-
 -->
+
 #Github Activity📊:
 
 <p align="center">
