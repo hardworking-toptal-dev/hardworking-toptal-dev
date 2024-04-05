@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 <h3 align="center" >Visitor Count</h3>
 <a align="center" href="https://profile-counter.glitch.me/{Eric-potter}/count.svg">
   
-  ![VisitorCount](https://profile-counter.glitch.me/{Eric-potter}/count.svg)  
+  ![VisitorCount](https://profile-counter.glitch.me/{Eric-potter}/count.svg)   
   
 </a>
 -->
