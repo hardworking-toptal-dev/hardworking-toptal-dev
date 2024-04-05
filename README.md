@@ -1,5 +1,5 @@
 
-# Hi there 👋 <img src="https://media.giphy.com/media/hVa6t0WpoDOk7Pxb7l/giphy.gif" width="50">
+# Hi there 👋
  
 
 I am a web and blockchain developer.
