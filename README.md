@@ -2,7 +2,7 @@
 # Hi there 👋
  
 
-I am a web and blockchain developer.
+I am a blockchain developer.
 
 <p> 
     Master: <br />
