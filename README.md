@@ -1,9 +1,11 @@
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header">
 
 # Hi there 👋
  
 
 I am a blockchain developer.
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
+<a href="https://github.com/Rez4-4/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Computer+Science+Student;Competitive+Programmer;ACPC+2022+2024+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
 <p> 
     Master: <br />
     <img src="https://s2.coinmarketcap.com/static/img/coins/64x64/1.png" alt="linux" width="60" height="60"/>
@@ -63,3 +65,4 @@ Here are some ideas to get you started:
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eric-potter&theme=radical&layout=compact&hide=Jupyter%20Notebook"  display=block width=50% height=auto  alt="2" />
 </p>
 -->
+<div align="center"> ![Nothing](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
