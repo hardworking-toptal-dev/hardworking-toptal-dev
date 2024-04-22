@@ -67,6 +67,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center"> 
- ![Nothing](https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg)
+<a href="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" target = "_blank" rel="noreferrer" />
 
 :page_with_curl: I'm currently learning:
