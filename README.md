@@ -67,6 +67,6 @@ Here are some ideas to get you started:
 -->
 
 <div align="center"> 
-<a href="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" target = "_blank" rel="noreferrer" />
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" />
 
 :page_with_curl: I'm currently learning:
