@@ -2,7 +2,6 @@
 
 # Hi there, I'm blockchain developer! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35">
  
-
 I am a blockchain developer.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br>
 <a href="https://github.com/Rez4-4/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Senior+Rust+developer;Competitive+Programmer;ACPC+2022+2024+Finalist;DS%20|%20Algorithms%20|%20OOP%20;Specialist%20on%20Codeforces;Division%202%20on%20Codechef%20(3%20Stars);6%20Kyu%20on%20Atcoder;Always%20learning%20new%20things&center=true&width=500&height=50"></a>
