@@ -29,7 +29,7 @@ I am a blockchain developer.
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>   
 </p>
 
-
+<!--
 <p align="center">
 <a class='github-status' href='https://github.com/xfactor-toml'>
     <img height="180px" src='https://github-readme-stats.vercel.app/api?username=hardworking-toptal-dev&show_icons=true&theme=radical' />
@@ -39,7 +39,7 @@ I am a blockchain developer.
 
 
 **hardworking-toptal-dev/hardworking-toptal-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 
 Here are some ideas to get you started:
 
