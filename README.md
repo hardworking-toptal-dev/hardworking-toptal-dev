@@ -29,15 +29,17 @@ I am a blockchain developer.
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="60"/>   
 </p>
 
+<!--
 <p align="center">
 <a class='github-status' href='https://github.com/xfactor-toml'>
     <img height="180px" src='https://github-readme-stats.vercel.app/api?username=hardworking-toptal-dev&show_icons=true&theme=radical' />
   </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardworking-toptal-dev&theme=dracula&column=4&margin-w=15&margin-h=15" alt="William Potter" /></a>
 </p>
-
+-->
 
 **hardworking-toptal-dev/hardworking-toptal-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
