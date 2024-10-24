@@ -36,10 +36,10 @@ I am a blockchain developer.
   </a>
 <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hardworking-toptal-dev&theme=dracula&column=4&margin-w=15&margin-h=15" alt="William Potter" /></a>
 </p>
--->
+
 
 **hardworking-toptal-dev/hardworking-toptal-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 
 Here are some ideas to get you started:
 
