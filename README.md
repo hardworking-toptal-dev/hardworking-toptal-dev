@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&amp;color=7A92B8&amp;height=100&amp;section=header">
 
-# I'm a blockchain developer!
+# I'm a blockchain engineer!
 
 ```rust
 struct BlockchainArchitect {
